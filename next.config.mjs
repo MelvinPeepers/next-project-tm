@@ -1,8 +1,4 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {
-  images: {
-    loader: "default", // Disables Next.js image optimization
-  },
-};
+const nextConfig = {};
 
 export default nextConfig;
