@@ -4,6 +4,8 @@
 
 // export default AddPropertyPage;
 
+"use client";
+
 import { useEffect } from "react";
 
 const AddPropertyPage = () => {
