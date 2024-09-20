@@ -4,6 +4,8 @@
 
 // export default PropteriesPage;
 
+import React from "react";
+
 const PropertiesPage = ({ data }) => {
   return (
     <div>
